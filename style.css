@@ -1,0 +1,12 @@
+/* arquivo style.css */
+
+body{
+    background-color: #e7baba; /*cor de fundo*/ 
+    color:rgb(0, 0, 0); /*cor do texto*/
+    font-family: verdana, arial, "sans-serif"; /*fonte*/
+}
+
+h1{
+    color: #1d3173;
+    text-align: center; /*centraliza*/
+}
